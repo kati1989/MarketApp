@@ -29,5 +29,7 @@ abstract class MarketDatabase : RoomDatabase() {
             return INSTANCE
         }
     }
+
+
 }
 
